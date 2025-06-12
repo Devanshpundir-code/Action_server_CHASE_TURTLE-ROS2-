@@ -1,0 +1,6 @@
+int64 command
+---
+string status
+---
+float32 x
+float32 y
